@@ -9,5 +9,6 @@ Bot functionality for administrators and developers
  - Moderation of chats, namely the addition of words or phrases that trigger the deletion of a message
  - Adding trigger words that respond to the user's message with a given text (advertising)
  - Admin panel
+ - In a certain period of time, the bot will automatically post vacancies from the site
  
  Link to bot: https://t.me/rabota_praha_bot
