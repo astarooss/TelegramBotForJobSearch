@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+.idea
+.vscode
+test.py
+test2.py
+message_bot.py
+
+
+angl_kb.py
+ps2_angl.py
+angl.py

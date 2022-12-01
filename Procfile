@@ -1,0 +1,1 @@
+web: python bot_start.py
